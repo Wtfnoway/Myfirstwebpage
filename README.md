@@ -2,7 +2,7 @@
 <html>
 <head><h3>My first webpage</h3></Head>
 <body>Webpage for disclosure  of the social medias and my codes.<p><p>
-<img source=" /storage/emulated/0/Pictures/Whatsapp"
+<img source=""
   img>
 <br><br>
 Instagram: (https://www.instagram.com/_shadowhombre?stkn=MXhuMnJ5ZTNjODVkNQ==)<br>
