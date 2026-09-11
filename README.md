@@ -2,7 +2,7 @@
 <html>
 <head><h3>My first webpage</h3></Head>
 <body>Webpage for disclosure  of the social medias and my codes.
-<img source="https://photos.app.goo.gl/kbsxzgDqiLijXa2D9"
+<img> source="storage/emulated/0/Pictures/Whatsapp"
 <img>
 </body>
 </html>
